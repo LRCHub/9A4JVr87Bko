@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "願い～あの頃のキミへ～（feat. RINZO）",
+  "base_artist": "當山　みれい",
+  "createdAt": "2026-02-23T06:55:20.496342Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "願い～あの頃のキミへ～ (feat. RINZO)",
+      "artist": "MIREI",
+      "has_synced": true,
+      "path": "select/01_願い~あの頃のキミへ~_(feat._RINZO)_MIREI.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "願い～あの頃のキミへ～ Acoustic ver.",
+      "artist": "當山みれい",
+      "has_synced": false,
+      "path": "select/pl_01_願い~あの頃のキミへ~_Acoustic_ver._當山みれい.txt"
+    }
+  ]
+}
